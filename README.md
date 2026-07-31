@@ -49,4 +49,4 @@ This repository is intended solely to showcase the project, technologies used, a
 
 **Ankit Kumar**
 
-Full Stack Developer (MERN Stack)
+Full Stack Developer
